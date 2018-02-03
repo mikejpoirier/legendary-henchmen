@@ -1,0 +1,94 @@
+[
+    { // Doombot Legion
+        "name": "Doombot Legion",
+        "edition": "Core"
+    },
+    { // Savage Land Mutates
+        "name": "Savage Land Mutates",
+        "edition": "Core"
+    },
+    { // Hand Ninja
+        "name": "Hand Ninja",
+        "edition": "Core"
+    },
+    { // Sentinel
+        "name": "Sentinel",
+        "edition": "Core"
+    },
+    { // Maggia Goons
+        "name": "Maggia Goons",
+        "edition": "Dark City"
+    },
+    { // Phalanx
+        "name": "Phalanx",
+        "edition": "Dark City",
+		"rules": [
+			{
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Tech",
+				"amount": 1
+			}
+		]
+    },
+    { // Doombot Legion
+        "name": "Doombot Legion",
+        "edition": "Core"
+    },
+    { // Cape-Killers
+        "name": "Cape-Killers",
+        "edition": "Civil War"
+    },
+    { // Mandroid
+        "name": "Mandroid",
+        "edition": "Civil War"
+    },
+    { // Ghost Racers
+        "name": "Ghost Racers",
+        "edition": "Secret Wars Volume 1",
+		"rules": [
+			{
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Covert",
+				"amount": 1
+			}
+		]
+    },
+    { // Khonshu Guardians
+        "name": "Khonshu Guardians",
+        "edition": "Secret Wars Volume 2"
+    },
+    { // M.O.D.O.K.S.
+        "name": "M.O.D.O.K.S.",
+        "edition": "Secret Wars Volume 1"
+    },
+    { // Magma Men
+        "name": "Magma Men",
+        "edition": "Secret Wars Volume 2"
+    },
+    { // Spider-Infected
+        "name": "Spider-Infected",
+        "edition": "Secret Wars Volume 2"
+    },
+    { // The Thor Corps
+        "name": "The Thor Corps",
+        "edition": "Secret Wars Volume 1"
+    },
+    { // Sapien League
+        "name": "Sapien League",
+        "edition": "X-Men"
+    },
+    { // The Brood
+        "name": "The Brood",
+        "edition": "X-Men"
+    },
+    { // Shi'ar Patrol Craft
+        "name": "Shi'ar Patrol Craft",
+        "edition": "X-Men"
+    },
+    { // Shi'ar Death Commandos
+        "name": "Shi'ar Death Commandos",
+        "edition": "X-Men"
+    }
+]

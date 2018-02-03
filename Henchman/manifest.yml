@@ -1,0 +1,8 @@
+---
+applications:
+- name: legendary-henchman
+  memory: 128M
+  disk_quota: 512M
+  stack: cflinuxfs2
+  path: ./bin/Debug/netcoreapp2.0/publish/
+  health-check-type: process

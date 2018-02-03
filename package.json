@@ -1,0 +1,10 @@
+{
+    "name": "henchman",
+    "version": "0.0.0",
+    "license": "MIT",
+    "scripts": {
+      "start": "cd Henchman && dotnet run",
+      "push": "cd Henchman && dotnet publish && cf push",
+      "test": "cd Henchman.Tests.Unit && dotnet test && cd ..\\Henchman.Tests.Integration && dotnet test"
+    }
+}
